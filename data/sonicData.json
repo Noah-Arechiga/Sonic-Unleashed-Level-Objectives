@@ -207,5 +207,32 @@
                 "Dark Guardian: Beat the Dark Guardian!"
             ]
         }
+    },
+
+    "Adabat": {
+        "description": "The village is an architectural marvel, built atop the water and ringed by ancient ruins.",
+        "levels": {
+            "Jungle Joyride Day": [
+                "Act 1: Head for the goal!",
+                "Time Trial Lv.3: Finish in 6:00!",
+                "Battle Trial Lv.3: Beat over 70 foes!",
+                "Ring Trial Lv.3: Grab 400 rings!",
+                "[DLC] Act 1-2: Head for the goal!",
+                "Act 2: Complete three full laps!",
+                "Act 3: Head for the goal!",
+                "[DLC] Act 4: Head for the goal!",
+                "[DLC] Act 5: Head for the goal!",
+                "Egg Lancer: Beat Eggman's Egg Lancer!"
+            ],
+            "Jungle Joyride Night": [
+                "Act 1: Head for the goal!",
+                "Time Trial Lv.3: Finish in 10:00!",
+                "Survival Lv.3: No healing! Guard well to stay alive!",
+                "Jungle Fright: Find the ghosts in time!",
+                "[DLC] Act 1-2: Head for the goal!",
+                "Act 2: Head for the goal!",
+                "[DLC] Act 3: Head for the goal!"
+            ]
+        }
     }
 }
