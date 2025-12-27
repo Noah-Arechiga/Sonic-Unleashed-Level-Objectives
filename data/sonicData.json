@@ -88,5 +88,32 @@
                 "[DLC] Act 2: Head for the goal!"
             ]
         }
+    },
+
+    "Holoska": {
+        "description": "Covered in snow, this northern land is gripped by extreme cold and dotted with houses of ice.",
+        "levels": {
+            "Cool Edge Day": [
+                "Act 1: Head for the goal!",
+                "Time Trial Lv.3: Finish in 3:30!",
+                "Battle Trial Lv.3: Beat over 60 foes!",
+                "Ring Trial Lv.3: Grab 500 rings!",
+                "Love Is Jerky: Get the jerky in time!",
+                "[DLC] Act 1-2: Head for the goal!",
+                "Act 2: Complete three full laps!",
+                "[DLC] Act 2-2: Complete three full laps!",
+                "[DLC] Act 3: Get to the goal in time!",
+                "[DLC] Act 4: Head for the goal!"
+            ],
+            "Cool Edge Night": [
+                "Act 1: Head for the goal!",
+                "Time Trial Lv.3: Finish in 10:00!",
+                "Survival Lv.3: No healing! Guard well to stay alive!",
+                "A Promise Made: Protect Jari-Pekka!",
+                "[DLC] Act 2: Head for the goal!",
+                "[DLC] Act 3: Head for the goal!",
+                "Dark Moray: Beat the Dark Moray!"
+            ]
+        }
     }
 }
