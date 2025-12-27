@@ -178,5 +178,34 @@
                 "[DLC] Act 3: Head for the goal!"
             ]
         }
+    },
+
+    "Shamar": {
+        "description": "A town of ruins and ancient customs, now celebrating the Feast of Sun and Moon.",
+        "levels": {
+            "Arid Sands Day": [
+                "Act 1: Head for the goal!",
+                "Time Trial Lv.3: Finish in 3:00!",
+                "Battle Trial Lv.3: Beat over 70 foes!",
+                "Ring Trial Lv.3: Grab 600 rings!",
+                "Committee Call: Break the crates!",
+                "Urgent Mission: Gather the oranges!",
+                "Missing Sister: Find Yasmine!",
+                "Shamaran Peace: Beat the enemies!",
+                "Ice Dream: Get the supplies!",
+                "[DLC] Act 1-2: Get to the goal in time!",
+                "Act 2: Head for the goal!",
+                "[DLC] Act 3: Find the Chao!"
+            ],
+            "Arid Sands Night": [
+                "Act 1: Head for the goal!",
+                "Time Trial Lv.3: Finish in 20:00!",
+                "Survival Lv.3: No healing! Guard well to stay alive!",
+                "Missing Son: Find Labib's son!",
+                "[DLC] Act 2: Head for the goal!",
+                "[DLC] Act 3: Head for the goal!",
+                "Dark Guardian: Beat the Dark Guardian!"
+            ]
+        }
     }
 }
