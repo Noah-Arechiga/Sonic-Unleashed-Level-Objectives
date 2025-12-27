@@ -115,5 +115,40 @@
                 "Dark Moray: Beat the Dark Moray!"
             ]
         }
+    },
+
+    "Chun-nan": {
+        "description": "This small town in the mountains has passed down its meat bun recipe for generations.",
+        "levels": {
+            "Dragon Road Day": [
+                "Act 1: Head for the goal!",
+                "Time Trial Lv.3: Finish in 4:00!",
+                "Battle Trial Lv.3: Beat over 30 foes!",
+                "Ring Trial Lv.3: Grab 500 rings!",
+                "Find A Cure: Gather the herbs!",
+                "Get Pumped: Don't get hit!",
+                "Kung Fu Flex: Beat the enemies!",
+                "Kung Fu Speed: Get to the goal in time!",
+                "Hide-and-Seek: Play hide-and-seek!",
+                "[DLC] Act 1-2: Head for the goal!",
+                "Act 2: Complete three full laps!",
+                "[DLC] Act 2-2: Complete five full laps!",
+                "Act 3: Head for the goal!",
+                "[DLC] Act 4: Head for the goal!",
+                "[DLC] Act 5: Complete four full laps!"
+            ],
+            "Dragon Road Night": [
+                "Act 1: Head for the goal!",
+                "Time Trial Lv.3: Finish in 3:00!",
+                "Survival Lv.3: No healing! Guard well to stay alive!",
+                "Checkup Time: Beat the enemies!",
+                "Chronic Ailment: Get the medicine!",
+                "Energy Boost: Get the snack in time!",
+                "[DLC] Act 1-2: Head for the goal!",
+                "Act 2: Head for the goal!",
+                "[DLC] Act 3: Head for the goal!",
+                "Dark Gaia Phoenix: Beat the Dark Gaia Phoenix!"
+            ]
+        }
     }
 }
