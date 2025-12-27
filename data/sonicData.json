@@ -59,6 +59,34 @@
     },
 
     "Spagonia": {
-        
+        "description": "The world's art capital and home to a university that attracts those in search of knowledge.",
+        "levels": {
+            "Rooftop Run Day": [
+                "Act 1: Head for the goal!",
+                "Time Trial Lv.3: Finish in 4:30!",
+                "Battle Trial Lv.3: Beat over 80 foes!",
+                "Ring Trial Lv.3: Grab 800 rings!",
+                "Lunch Thief!: Find the thief!",
+                "A Miffed Mom: Gather 10 oranges!",
+                "Elio's Loss: Gather 100 rings!",
+                "Tower Terror: Tag the 2 ghosts!",
+                "[DLC] Act 1-2: Head for the goal!",
+                "Act 2: Complete three full laps!",
+                "[DLC] Act 2-2: Head for the goal!",
+                "Act 3: Find the Chao!",
+                "[DLC] Act 4: Head for the goal!",
+                "[DLC] Act 5: Head for the goal!",
+                "Egg Devil Ray: Beat Eggman's Egg Devil Ray!",
+                "Tornado Defense: Act 1: Head for the goal!"
+            ],
+            "Rooftop Run Night": [
+                "Act 1: Head for the goal!",
+                "Time Trial Lv.3: Finish in 10:00!",
+                "Survival Lv.3: No healing! Guard well to stay alive!",
+                "Elio's Nights: Find Elio!",
+                "[DLC] Act 1-2: Head for the goal!",
+                "[DLC] Act 2: Head for the goal!"
+            ]
+        }
     }
 }
