@@ -234,5 +234,18 @@
                 "[DLC] Act 3: Head for the goal!"
             ]
         }
+    },
+
+    "Eggmanland": {
+        "description": "A maniacal metropolis of machinery built by Dr. Eggman and his mad ambitions.",
+        "levels": {
+            "Eggmanland": [
+                "Eggmanland: Head for the goal!",
+                "Time Trial Lv.3: Finish in 45:00!",
+                "Egg Dragoon: Beat Eggman's Egg Dragoon!",
+                "Dark Gaia: Defeat Dark Gaia!",
+                "Tornado Defense: Act 2: Head for the goal!"
+            ]
+        }
     }
 }
